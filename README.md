@@ -9,16 +9,15 @@
 <h5 align="center">
   <code>
     <a href="www.linkedin.com/in/liveshailesh" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://leetcode.com/liveshailesh/" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-<!--  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code> -->
+  <code><a href="https://leetcode.com/liveshailesh/" title="Leetcode Profile"><img width="22" src="images/leetcode.svg"> Leetcode</a></code>
+ <code><a href="https://www.hackerrank.com/liveshailesh" title="Hackerrank Profile"><img width="22" src="images/hackerrank.png"> Hackerrank</a></code>
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Shailesh Singh, Web developer & Computer Science Engineer from India
+  Hi, I'm Shailesh Singh, I am Web developer &  pursuing Computer Science Engineer from India
   <br>
   <br>
-  🔬 I'm currently studying for a Undergradutes degree from Sathyabama Institute of Science and Technology (SIST) Computer Engineering Department
+  🔬 I'm currently studying for a undergraduate degree from Sathyabama Institute of Science and Technology (SIST) Computer Engineering Department
   <br>
   💻 I love writing code and learn anythings about it
   <br>
@@ -55,8 +54,8 @@
   <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
   <code><img title="Java" height="25" src="images/java-original.svg"></code>
   <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="Unity" height="25" src="images/unity3d.svg"></code>
-  <code><img title="Android" height="25" src="images/android.svg"></code>
+<!--   <code><img title="Unity" height="25" src="images/unity3d.svg"></code> -->
+<!--   <code><img title="Android" height="25" src="images/android.svg"></code> -->
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
@@ -70,7 +69,7 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-     <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=royalshailesh=react&border=61dafb&hide_border=true" alt="Shailesh-Singh" />
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=royalshailesh&theme=react&border=61dafb&hide_border=true" alt="shailesh-singh" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=royalshailesh&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
