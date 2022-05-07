@@ -55,8 +55,8 @@
   <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
   <code><img title="Java" height="25" src="images/java-original.svg"></code>
   <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="Unity" height="25" src="images/unity3d.svg"></code>
-  <code><img title="Android" height="25" src="images/android.svg"></code>
+<!--   <code><img title="Unity" height="25" src="images/unity3d.svg"></code> -->
+<!--   <code><img title="Android" height="25" src="images/android.svg"></code> -->
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
@@ -70,7 +70,7 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-     <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=royalshailesh=react&border=61dafb&hide_border=true" alt="Shailesh-Singh" />
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=royalshailesh&theme=react&border=61dafb&hide_border=true" alt="shailesh-singh" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=royalshailesh&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
