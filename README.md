@@ -9,17 +9,15 @@
 <h5 align="center">
   <code>
     <a href="www.linkedin.com/in/liveshailesh" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://leetcode.com/liveshailesh/" title="HackerRank Profile"><img width="22" src="
-leetcode_logo_icon_145113.png "> HackerRank</a></code>
-<!--  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code> -->
+  <code><a href="https://leetcode.com/liveshailesh/" title="Leetcode Profile"><img width="22" src="images/leetcode.svg"> Leetcode</a></code>
+ <code><a href="https://www.hackerrank.com/liveshailesh" title="Hackerrank Profile"><img width="22" src="images/hackerrank.png"> Hackerrank</a></code>
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Shailesh Singh, Web developer & Computer Science Engineer from India
+  Hi, I'm Shailesh Singh, I am Web developer &  pursuing Computer Science Engineer from India
   <br>
   <br>
-  🔬 I'm currently studying for a Undergradutes degree from Sathyabama Institute of Science and Technology (SIST) Computer Engineering Department
+  🔬 I'm currently studying for a undergraduate degree from Sathyabama Institute of Science and Technology (SIST) Computer Engineering Department
   <br>
   💻 I love writing code and learn anythings about it
   <br>
